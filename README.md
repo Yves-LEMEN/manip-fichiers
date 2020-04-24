@@ -1,3 +1,2 @@
 # manip-fichiers
-entrée sortie fichier data
-rev 0
+ajouté lecture de pec_sigmag et pec_sigmau
