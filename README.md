@@ -1,2 +1,2 @@
 # manip-fichiers
-ajouté lecture de pec_sigmag et pec_sigmau
+ajouté dessin des courbes des potentiels g & u
