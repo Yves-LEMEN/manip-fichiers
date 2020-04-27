@@ -1,2 +1,2 @@
 # manip-fichiers
-ajouté dessin des courbes des potentiels g & u
+essai de tracé dune courbe de mouvement
