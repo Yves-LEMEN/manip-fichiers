@@ -1,2 +1,2 @@
 # manip-fichiers
-essai de tracé dune courbe de mouvement
+tracé dune courbe de mouvement
