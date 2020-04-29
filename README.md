@@ -1,2 +1,2 @@
 # manip-fichiers
-tracé dune courbe de mouvement
+avec indexation des courbes de potentiel g
