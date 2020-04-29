@@ -1,2 +1,2 @@
 # manip-fichiers
-amélioration plot
+raccourci le programme et ajouté un exemple ave plus de croquis
