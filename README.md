@@ -1,2 +1,2 @@
 # manip-fichiers
-raccourci le programme et ajouté un exemple ave plus de croquis
+changé les unités en u.a.
