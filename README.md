@@ -1,2 +1,2 @@
 # manip-fichiers
-changé les unités en u.a.
+ajouté des exemples avec les fonctions de potentiel g
